@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Caltrans Lane Closures</name>
+<copyright>(c) 2017 California Department of Transportation. All rights reserved.</copyright>
+<Style id="lcs">
+  <LabelStyle><scale>0</scale></LabelStyle>
+  <IconStyle>
+    <Icon><href>http://quickmap.dot.ca.gov/img/lcs-32x32.png</href></Icon>
+    <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+  </IconStyle>
+</Style>
+<Style id="full-closure">
+  <IconStyle>
+    <Icon><href>http://quickmap.dot.ca.gov/img/full-closure-32x32.png</href></Icon>
+    <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+  </IconStyle>
+</Style>
+<Style id="full-closure-hsr">
+  <IconStyle>
+    <Icon><href>http://quickmap.dot.ca.gov/img/hsrwithbarriertransparent8888v2.png</href></Icon>
+    <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+  </IconStyle>
+</Style>
+<Style id="lcs-hsr">
+  <IconStyle>
+    <Icon><href>http://quickmap.dot.ca.gov/img/lcs-hsr-32x32.png</href></Icon>
+    <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+  </IconStyle>
+</Style>
+
+    <!-- http://www.dot.ca.gov/cwwp2/data/d1/raw/lane_closures_v4_d1.txt -->
+<Placemark>
+  <name>Route 101 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  0.15 mi North from Lagoon Creek Co Park to 2.39 mi North from Rudisill Road<br/> <br/> Due to Highway Construction<br/>Expected to end at 8:01pm Dec 30, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-124.100332,41.595332,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 101 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  0.15 mi North from Lagoon Creek Co Park to 2.39 mi North from Rudisill Road<br/> <br/> Due to Highway Construction<br/>Expected to end at 8:01pm Dec 30, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-124.115182,41.639208,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 96 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">At 0.85 mi East from Klamath River<br/> <br/> Due to Emergency Work<br/>Expected to end at 11:59pm Dec 31, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.702407,41.172761,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 101 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  1.5 mi North from Comminsky Stn Rd to North of Frog Woman Rock<br/> 1 of 2 lanes closed<br/> Due to Miscellaneous Work<br/>Expected to end at 11:59pm Feb 28, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.056539,38.907052,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 175 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  1.64 mi West from Buckman Dr to 2.34 mi West from Buckman Dr<br/> <br/> Due to Emergency Work<br/>Expected to end at 11:59pm Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.026224,38.971679,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 175 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  1.64 mi West from Buckman Dr to 2.34 mi West from Buckman Dr<br/> <br/> Due to Emergency Work<br/>Expected to end at 11:59pm Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.026584,38.969727,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 175 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  0.01 mi East from Motorcycle Park Entrance to 0.39 mi West from Motorcycle Park Entrance<br/> <br/> Due to Emergency Work<br/>Expected to end at 11:59pm May 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.004306,38.982295,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 175 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  0.01 mi East from Motorcycle Park Entrance to 0.39 mi West from Motorcycle Park Entrance<br/> <br/> Due to Emergency Work<br/>Expected to end at 11:59pm May 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.997867,38.983797,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 101 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  2.8 miles South of Mill Cr. Campground to 2.8 miles South of Mill Creek Campground<br/> <br/> Due to Electrical Work<br/>Expected to end at 8:01pm Dec 31, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-124.113629,41.664785,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 101 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  2.8 miles South of Mill Cr. Campground to 2.8 miles South of Mill Creek Campground<br/> <br/> Due to Electrical Work<br/>Expected to end at 8:01pm Dec 31, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-124.113518,41.6709,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 101 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Comminsky Station Rd to Pieta Creek Bridge<br/> 1 of 2 lanes closed<br/> Due to Slide Removal<br/>Expected to end at 5:01pm Sep 2, 2019<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.053573,38.887372,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound / Southbound 101 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  0.42 mi South from Ridgewood Ranch Rd to 0.92 mi South from Ridgewood Ranch rd<br/> 1 of 4 lanes closed<br/> Due to Emergency Work<br/>Expected to end at 5:01pm Jul 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.228652,39.264842,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 36 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Private Rd to Buck Mountain Rd<br/> <br/> Due to Roadway Excavation<br/>Expected to end at 11:59pm Mar 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.654673,40.452278,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 36 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Private Rd to Buck Mountain Rd<br/> <br/> Due to Roadway Excavation<br/>Expected to end at 11:59pm Mar 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.626996,40.488606,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 101 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Mill Creek Access Rd to Hamilton Rd<br/> 1 of 2 lanes closed<br/> Due to Highway Construction<br/>Expected to end at 11:59pm Dec 29, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-124.120845,41.699848,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound / Southbound 101 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Piercy to R105.3 - 1.5 mi north of Piercy<br/> 2 of 4 lanes closed<br/> Due to Emergency Work<br/>Expected to end at 8:01pm Jun 30, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.795006,39.96586,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 101 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Hermitage Vista Point to Route 101/271 Seperation<br/> 1 of 2 lanes closed<br/> Due to Emergency Work<br/>Expected to end at 12:01pm Dec 29, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.654712,39.828418,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 96 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Willow Creek North to Tish Tang Campground<br/> <br/> Due to Shoulder Work<br/>Expected to end at 6:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.637061,40.989803,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 96 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Willow Creek North to Tish Tang Campground<br/> <br/> Due to Shoulder Work<br/>Expected to end at 6:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.639013,41.021056,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 101 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Uva Dr to Truck Scales<br/> <br/> Due to Drainage Work<br/>Expected to end at 7:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.242669,39.270891,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 101 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Uva Dr to Truck Scales<br/> <br/> Due to Drainage Work<br/>Expected to end at 7:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.317077,39.343262,0</coordinates></Point>
+</Placemark>
+    <!-- http://www.dot.ca.gov/cwwp2/data/d2/raw/lane_closures_v4_d2.txt -->
+<Placemark>
+  <name>Northbound / Southbound 147 Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From  0.2 mi north of County Rd A-13 to 0.9 mi south of Plumas/Lassen County Line<br/> <br/> Due to Bridge Work<br/>Expected to end at 11:01pm Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-121.083121,40.275344,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound / Southbound 147 Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From  0.2 mi north of County Rd A-13 to 0.9 mi south of Plumas/Lassen County Line<br/> <br/> Due to Bridge Work<br/>Expected to end at 11:01pm Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-121.074038,40.293951,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 96 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  7.1 mi west of Happy Camp to 6.6 mi west of Happy Camp<br/> <br/> Due to Emergency Work<br/>Expected to end at 6:01pm Feb 2, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.43778,41.724237,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 96 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  7.1 mi west of Happy Camp to 6.6 mi west of Happy Camp<br/> <br/> Due to Emergency Work<br/>Expected to end at 6:01pm Feb 2, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.433525,41.730858,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 36 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  0.9 mi west of Mad River to 0.9 mi west of Mad River<br/> <br/> Due to Emergency Work<br/>Expected to end at 7:30am Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.520891,40.458387,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 36 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  0.9 mi west of Mad River to 0.9 mi west of Mad River<br/> <br/> Due to Emergency Work<br/>Expected to end at 7:30am Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.519296,40.457632,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound / Southbound 97 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Route 97 to West Lincoln St (Weed)<br/> RShoulder closed<br/> Due to Utility Work<br/>Expected to end at 5:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.383427,41.418421,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 96 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Route 263 to 1.1 mi east of Route 263<br/> <br/> Due to Tree Work<br/>Expected to end at 3:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.591218,41.832301,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 96 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Route 263 to 1.1 mi east of Route 263<br/> <br/> Due to Tree Work<br/>Expected to end at 3:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.579577,41.842782,0</coordinates></Point>
+</Placemark>
+    <!-- http://www.dot.ca.gov/cwwp2/data/d3/raw/lane_closures_v4_d3.txt -->
+<Placemark>
+  <name>Route 49 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">At Vista Point - Rt<br/> <br/> Due to Emergency Work<br/>Expected to end at 11:59pm Dec 31, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-120.455828,39.63488,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 80 Off Ramp Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">To  Nevada St Oc (Maple St &amp; Placer St)<br/> 1 of 2 lanes closed<br/> Due to Miscellaneous Work<br/>Expected to end at 11:01pm Feb 28, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-121.078085,38.89733,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 160 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Sherman Island Rd to Jct Rte 12<br/> RShoulder closed<br/> Due to Emergency Work<br/>Expected to end at 3:01pm Dec 29, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-121.730341,38.080109,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound / Westbound 128 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Morgan St - Rt to Railroad Ave<br/> RShoulder closed<br/> Due to Curb/Gutter/Sidewalk Work<br/>Expected to end at 5:01pm Dec 22, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-121.964731,38.527201,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound / Westbound 128 Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From  Morgan St - Rt to Railroad Ave<br/> <br/> Due to Curb/Gutter/Sidewalk Work<br/>Expected to end at 6:01pm Dec 8, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-121.964731,38.527201,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound / Westbound 128 Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From  Morgan St - Rt to Railroad Ave<br/> <br/> Due to Curb/Gutter/Sidewalk Work<br/>Expected to end at 6:01pm Dec 8, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-121.970842,38.524972,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 49 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Saint Florian Ct - Lt to North Fork American River Bridge<br/> <br/> Due to Pile Driving<br/>Expected to end at 5:01pm Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-121.016032,38.889431,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 49 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Saint Florian Ct - Lt to North Fork American River Bridge<br/> <br/> Due to Pile Driving<br/>Expected to end at 5:01pm Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-121.040111,38.915162,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 20 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Washington Rd - Lt to White Cloud Campground<br/> <br/> Due to Clean Ditches<br/>Expected to end at 3:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-120.810918,39.316199,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 20 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Washington Rd - Lt to White Cloud Campground<br/> <br/> Due to Clean Ditches<br/>Expected to end at 3:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-120.845352,39.320042,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 5 Alternating Lanes Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  End Viaduct to Wb 50 To Sb 5 Oc<br/> 1 of 4 lanes closed<br/> Due to Pavement Work<br/>Expected to end at 6:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-121.504469,38.589957,0</coordinates></Point>
+</Placemark>
+    <!-- http://www.dot.ca.gov/cwwp2/data/d4/raw/lane_closures_v4_d4.txt -->
+<Placemark>
+  <name>Northbound 101 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Mission to Lombard St<br/> 1 of 3 lanes closed<br/> Due to Demolition<br/>Expected to end at 6:01am Dec 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.418657,37.772914,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 101 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Lombard St to Mission<br/> 1 of 3 lanes closed<br/> Due to Demolition<br/>Expected to end at 6:01am Dec 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.424549,37.801315,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 13 Off Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">To Northbound / Southbound Calavera Ave/Mountain Blvd<br/> <br/> Due to Slide Removal<br/>Expected to end at 5:01am Dec 31, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-122.179541,37.785867,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound / Southbound 35 Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From  Las Cumbres Rd to Route 9 (Local Access only) (No ETO)<br/> <br/> Due to Wash Out/Slide Repair<br/>Expected to end at 11:59pm Jan 15, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-122.067799,37.21306,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound / Southbound 35 Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From  Las Cumbres Rd to Route 9 (Local Access only) (No ETO)<br/> <br/> Due to Wash Out/Slide Repair<br/>Expected to end at 11:59pm Jan 15, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-122.121925,37.258488,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 1 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  JNO Shotgun Point to Approx 10 miles north of Jenner<br/> <br/> Due to Signalized 1-Way Control<br/>Expected to end at 7:59am Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.211414,38.500509,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 1 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  JNO Shotgun Point to Approx 10 miles north of Jenner<br/> <br/> Due to Signalized 1-Way Control<br/>Expected to end at 7:59am Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.219879,38.503402,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 1 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  0.4 MILE South of Estero Americano Bridge to 0.21 MILE North of Estero Americano Bridge<br/> <br/> Due to Signalized 1-Way Control<br/>Expected to end at 4:59pm Oct 4, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.897597,38.30934,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 1 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  0.4 MILE South of Estero Americano Bridge to 0.21 MILE North of Estero Americano Bridge<br/> <br/> Due to Signalized 1-Way Control<br/>Expected to end at 4:59pm Oct 4, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.89668,38.31652,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 880 Off Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">To Eastbound 29th Ave<br/> <br/> Due to Bridge Construction<br/>Expected to end at 12:01am Jul 1, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-122.231566,37.774569,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 1 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Goat Rock Beach to Russian River Br<br/> <br/> Due to Wash Out/Slide Repair<br/>Expected to end at 6:01pm Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.108621,38.430879,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 1 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Goat Rock Beach to Russian River Br<br/> <br/> Due to Wash Out/Slide Repair<br/>Expected to end at 6:01pm Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-123.102809,38.435912,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 1 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Seascape Dr to Muir Beach Overlook<br/> <br/> Due to Retaining Wall<br/>Expected to end at 11:59pm Jun 4, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.577607,37.863135,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 1 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Seascape Dr to Muir Beach Overlook<br/> <br/> Due to Retaining Wall<br/>Expected to end at 11:59pm Jun 4, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.586243,37.864372,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound / Southbound 1 Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From  Rocky Point Road to Panoramic Hwy North<br/> <br/> Due to Retaining Wall<br/>Expected to end at 11:59pm Feb 1, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-122.62626,37.886658,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound / Southbound 1 Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From  Rocky Point Road to Panoramic Hwy North<br/> <br/> Due to Retaining Wall<br/>Expected to end at 11:59pm Feb 1, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-122.636747,37.896343,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 1 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Trnout/Apx 1/2m S/Slide Ranch to Slide Ranch<br/> <br/> Due to Retaining Wall<br/>Expected to end at 11:59pm May 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.590951,37.871732,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 1 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Trnout/Apx 1/2m S/Slide Ranch to Slide Ranch<br/> <br/> Due to Retaining Wall<br/>Expected to end at 11:59pm May 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.595173,37.875203,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 185 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  52nd Ave to Route 77 (42nd Ave)<br/> 1 of 2 lanes closed<br/> Due to Highway Construction<br/>Expected to end at 9:01am Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.206929,37.768609,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 185 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Durant Ave to Route 112 (Davis St)<br/> 1 of 2 lanes closed<br/> Due to Highway Construction<br/>Expected to end at 9:01am Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.164348,37.736009,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 112 Alternating Lanes Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Route 185 (E 14th St) to San Leandro Blvd<br/> 1 of 2 lanes closed<br/> Due to Highway Construction<br/>Expected to end at 9:01am Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.156932,37.725676,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 185 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  72nd Ave to 66th Ave<br/> 1 of 2 lanes closed<br/> Due to Highway Construction<br/>Expected to end at 9:01am Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.188052,37.759759,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 185 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  66th Ave to 72nd Ave<br/> 1 of 2 lanes closed<br/> Due to Highway Construction<br/>Expected to end at 9:01am Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.193901,37.762427,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 185 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Route 112 (Davis St) to Durant Ave<br/> 1 of 2 lanes closed<br/> Due to Highway Construction<br/>Expected to end at 9:01am Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.156695,37.725707,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 185 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  94th Ave to 82nd Ave<br/> 1 of 2 lanes closed<br/> Due to Highway Construction<br/>Expected to end at 9:01am Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.172453,37.74711,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 112 Alternating Lanes Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  San Leandro Blvd to Route 185 (E 14th St)<br/> 1 of 2 lanes closed<br/> Due to Highway Construction<br/>Expected to end at 9:01am Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.161189,37.724104,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 185 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Route 77 (42nd Ave) to 52nd Ave<br/> 1 of 2 lanes closed<br/> Due to Highway Construction<br/>Expected to end at 9:01am Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.216409,37.773037,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 185 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  82nd Ave to 94th Ave<br/> 1 of 2 lanes closed<br/> Due to Highway Construction<br/>Expected to end at 9:01am Jan 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.179724,37.755643,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 101 Alternating Lanes Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Dry Creek Rd to Windsor River<br/> 1 of 2 lanes closed<br/> Due to Miscellaneous Work<br/>Expected to end at 11:59pm Dec 31, 2999<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.878159,38.626251,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 82 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Francisco Dr to Country Club Dr<br/> 1 of 3 lanes closed<br/> Due to Emergency Work<br/>Expected to end at 11:59pm Dec 31, 2999<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.426024,37.643905,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 121 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">At Multiple Location Between Vichy Ave<br/> <br/> Due to FIRE Cleanup/Repairs<br/>Expected to end at 6:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.379071,38.250688,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name> 80 Surface Street Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">On SB Pinole Valley Rd Between WB 80 Pinole Valley ON/R and EB 80 Pinole Valley Rd OFF/R<br/> 1 of 2 lanes closed<br/> Due to Utility Work<br/>Expected to end at 3:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.286043,37.996961,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 116 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Caulfield Ln &amp; Lakeville St. to Mc Dowell Blvd-Lt<br/> 1 of 2 lanes closed<br/> Due to Utility Work<br/>Expected to end at 3:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.617787,38.233251,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 1 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Devil's Slide Tunnels- North Portals to Devil's Slide Tunnels- South Portals<br/> RShoulder closed<br/> Due to Shoulder Work<br/>Expected to end at 4:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.509782,37.582547,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 580 Off Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">To Eastbound / Westbound Cutting Blvd<br/> <br/> Due to Bridge Repair<br/>Expected to end at 1:59pm Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-122.362793,37.925243,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 680 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Sycamore Valley Road to Bollinger Canyon Rd<br/> Left HOV closed<br/> Due to Maintenance Operation<br/>Expected to end at 5:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-121.992876,37.811386,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 680 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Bollinger Canyon Rd to Sycamore Valley Road<br/> Left HOV closed<br/> Due to Maintenance Operation<br/>Expected to end at 5:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-121.965445,37.760047,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 580 Alternating Lanes Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Canal Blvd to Cutting Blvd<br/> 1 of 3 lanes closed<br/> Due to Bridge Repair<br/>Expected to end at 2:01pm Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.377873,37.927163,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 580 Alternating Lanes Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Greenville Rd to Midway Rd<br/> 1 of 4 lanes closed<br/> Due to Pavement Work<br/>Expected to end at 11:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-121.700607,37.71792,0</coordinates></Point>
+</Placemark>
+    <!-- http://www.dot.ca.gov/cwwp2/data/d5/raw/lane_closures_v4_d5.txt -->
+<Placemark>
+  <name>Route 9 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">At Western Avenue (PM 11 -Temporary Signal)<br/> <br/> Due to Slide Removal<br/>Expected to end at 6:01pm Jun 30, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.105625,37.105657,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound / Southbound 1 Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">At 4.6 Miles North Ragged Point Inn (Mon Co PM 3.0)<br/> <br/> Due to Slide Removal<br/>Expected to end at 6:01pm Sep 30, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-121.367022,35.813802,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound / Southbound 1 Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">At Mud Creek (Post Mile 8.85)<br/> <br/> Due to Slide Removal<br/>Expected to end at 6:01pm Sep 30, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-121.430066,35.863906,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 101 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Tenth Street to Mission Street<br/> 1 of 2 lanes closed<br/> Due to Bridge Work<br/>Expected to end at 11:59am Feb 28, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-120.700444,35.747784,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 101 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Mission Street to Tenth Street<br/> 1 of 2 lanes closed<br/> Due to Bridge Work<br/>Expected to end at 11:59am Feb 28, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-120.699815,35.740816,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 101 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Monterey Rd (North) to San Marcos Road<br/> 1 of 2 lanes closed<br/> Due to Bridge Work<br/>Expected to end at 11:59am Feb 28, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-120.69423,35.713496,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 101 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Monterey Rd (North) to San Marcos Road<br/> 1 of 2 lanes closed<br/> Due to Bridge Work<br/>Expected to end at 11:59am Feb 28, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-120.69423,35.713496,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 9 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Just south of Pike Rd. to Western Avenue<br/> <br/> Due to Bridge Work<br/>Expected to end at 11:59pm Jun 29, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.100411,37.099635,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 9 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Just south of Pike Rd. to Western Avenue<br/> <br/> Due to Bridge Work<br/>Expected to end at 11:59pm Jun 29, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-122.105625,37.105657,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound / Southbound 35 Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From  Bear Creek Road (North) to 0.5 miles from Junction of  BCR/Sklyine<br/> <br/> Due to Emergency Work<br/>Expected to end at 6:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-122.026187,37.166834,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound / Southbound 35 Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From  Bear Creek Road (North) to 0.5 miles from Junction of  BCR/Sklyine<br/> <br/> Due to Emergency Work<br/>Expected to end at 6:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-122.02698,37.171553,0</coordinates></Point>
+</Placemark>
+    <!-- http://www.dot.ca.gov/cwwp2/data/d6/raw/lane_closures_v4_d6.txt -->
+<Placemark>
+  <name>Southbound 99 Off Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">To Southbound Clinton Avenue Over-Crossing<br/> <br/> Due to Highway Construction<br/>Expected to end at 5:59am Dec 29, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-119.838483,36.771901,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 99 On Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From Northbound Clinton Avenue Over-Crossing<br/> <br/> Due to Highway Construction<br/>Expected to end at 5:59am Dec 29, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-119.838483,36.771901,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 41 Surface Street One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">San Joaquin River San Joaquin River<br/> <br/> Due to Bridge Work<br/>Expected to end at 11:59pm Nov 30, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-119.792552,36.874451,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 99 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  0.5 Miles N of North Goshen OH to 0.5 M North of Goshen OH<br/> 1 of 3 lanes closed<br/> Due to Bridge Work<br/>Expected to end at 5:59am May 31, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-119.418829,36.340493,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 99 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Mill Creek Ditch to 0.5 M north of Goshen OH<br/> 1 of 3 lanes closed<br/> Due to Striping Operation<br/>Expected to end at 5:59am Apr 30, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-119.41567,36.336706,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 180 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Del Norte Avenue to Siskiyou Avenue<br/> RShoulder closed<br/> Due to Shoulder Work<br/>Expected to end at 2:59pm Dec 8, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-120.069283,36.734791,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 99 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Poso Creek Bridge to Lerdo Canal Bridge<br/> 1 of 3 lanes closed<br/> Due to Highway Construction<br/>Expected to end at 11:59pm Feb 16, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-119.211778,35.605355,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 119 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Ashe Road to Stine Road<br/> RShoulder closed<br/> Due to Roadway Excavation<br/>Expected to end at 11:01pm Dec 29, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-119.073725,35.267072,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 33 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">At 7th Street<br/> Lt Turn Ln closed<br/> Due to Curb/Gutter/Sidewalk Work<br/>Expected to end at 3:01pm Dec 13, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-120.386786,36.750096,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 63 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Avenue 274/Mid Valley Avenue to Park Avenue/Avenue 272<br/> RShoulder closed<br/> Due to Emergency Work<br/>Expected to end at 3:01pm Dec 15, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-119.313569,36.287576,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name> 180 Surface Street Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">Cornelia south of 180 Cornelia south of 180<br/> <br/> Due to Utility Work<br/>Expected to end at 2:59pm Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-119.880742,36.735494,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 63 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">At Walnut Avenue<br/> Rt Turn Ln closed<br/> Due to Utility Work<br/>Expected to end at 5:01am Dec 7, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-119.313861,36.312699,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 63 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">At Walnut Avenue<br/> Lt Turn Ln closed<br/> Due to Utility Work<br/>Expected to end at 5:01am Dec 7, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-119.313861,36.312699,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 168 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Armstrong Avenue to Dewolf Avenue<br/> 1 of 2 lanes closed<br/> Due to Concrete Pour<br/>Expected to end at 6:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-119.680513,36.84088,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 168 Off Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">To Eastbound / Westbound Temperance Avenue<br/> <br/> Due to Concrete Pour<br/>Expected to end at 6:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-119.675631,36.840888,0</coordinates></Point>
+</Placemark>
+    <!-- http://www.dot.ca.gov/cwwp2/data/d7/raw/lane_closures_v4_d7.txt -->
+<Placemark>
+  <name>Northbound / Southbound 39 Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From  2 mi N/O Crystal Lake Rd to Angeles Crest Hwy, Rte 2<br/> <br/> Due to Permanent Road Closure of Hwy<br/>Expected to end at 5:01am Nov 30, 2020<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-117.862612,34.310588,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound / Southbound 39 Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From  2 mi N/O Crystal Lake Rd to Angeles Crest Hwy, Rte 2<br/> <br/> Due to Permanent Road Closure of Hwy<br/>Expected to end at 5:01am Nov 30, 2020<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-117.851021,34.356884,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 5 On Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From Southbound Florence Ave<br/> <br/> Due to Bridge Construction<br/>Expected to end at 11:59pm Dec 31, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-118.092671,33.935293,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 5 Off Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">To Eastbound / Westbound Valley View Ave<br/> <br/> Due to Bridge Construction<br/>Expected to end at 7:01am Jan 18, 2019<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-118.028906,33.884096,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 5 On Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From  Imperial Hwy<br/> <br/> Due to Roadway Excavation<br/>Expected to end at 5:01pm Mar 6, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-118.079687,33.916888,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 47 Off Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">To Westbound New Dock St<br/> <br/> Due to Bridge Construction<br/>Expected to end at 5:01am Dec 31, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-118.238808,33.759574,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 103 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">At Henry Ford Blvd<br/> 1 of 2 lanes closed<br/> Due to Bridge Construction<br/>Expected to end at 5:01am Dec 31, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-118.229613,33.779041,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 47 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Henry Ford Blvd to Ocean Blvd<br/> 1 of 2 lanes closed<br/> Due to Bridge Construction<br/>Expected to end at 5:01am Dec 31, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-118.240382,33.77127,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 405 Connector Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">To Eastbound Century Frwy, Rte 105<br/> <br/> Due to Roadway Excavation<br/>Expected to end at 5:59am Jan 19, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-118.36762,33.926027,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 138 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  30th Street East to 35th Street East<br/> 1 of 2 lanes closed<br/> Due to K-Rail Installation<br/>Expected to end at 3:01pm Dec 15, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-118.076334,34.580218,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 210 On Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From  Ocean View Blvd<br/> <br/> Due to Paving Operation<br/>Expected to end at 5:59am Dec 29, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-118.227918,34.211754,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 60 On Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From Northbound Grand Ave<br/> <br/> Due to Roadway Excavation<br/>Expected to end at 11:59pm Feb 18, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-117.823342,34.010136,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 10 On Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From Southbound Vincent Ave<br/> <br/> Due to Pavement Work<br/>Expected to end at 11:01pm Jan 26, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-117.926899,34.072306,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 10 On Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From Northbound / Southbound Puente Ave<br/> <br/> Due to Pavement Work<br/>Expected to end at 11:01pm Feb 2, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-117.962283,34.070102,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 210 Off Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">To Westbound Osborne St / Foothill Blvd<br/> <br/> Due to Brush Fire<br/>Expected to end at 3:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-118.381142,34.27504,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 210 Off Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">To Westbound Sunland Blvd<br/> <br/> Due to Brush Fire<br/>Expected to end at 3:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-118.330166,34.260068,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 210 Off Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">To Westbound Paxton St<br/> <br/> Due to Brush Fire<br/>Expected to end at 3:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-118.407192,34.287742,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 10 Off Ramp Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">To Eastbound Crenshaw Blvd<br/> 1 of 4 lanes closed<br/> Due to Electrical Work<br/>Expected to end at 4:59am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-118.337604,34.034736,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 2 Connector Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">To Westbound Foothill Frwy, Rte 210<br/> <br/> Due to Brush Fire<br/>Expected to end at 7:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-118.218555,34.20473,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 210 On Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From Westbound Foothill Frwy, Rte 210<br/> <br/> Due to Brush Fire<br/>Expected to end at 7:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-118.49053,34.317055,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 210 On Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From Westbound Foothill Frwy, Rte 210<br/> <br/> Due to Brush Fire<br/>Expected to end at 7:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-118.49053,34.317055,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 210 On Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From Westbound Foothill Frwy, Rte 210<br/> <br/> Due to Brush Fire<br/>Expected to end at 7:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-118.49053,34.317055,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 210 On Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From Westbound Foothill Frwy, Rte 210<br/> <br/> Due to Brush Fire<br/>Expected to end at 7:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-118.49053,34.317055,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 210 On Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From Westbound Foothill Frwy, Rte 210<br/> <br/> Due to Brush Fire<br/>Expected to end at 7:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-118.49053,34.317055,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 10 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Holt Ave to Azusa Ave, Rte 39<br/> 1 of 4 lanes closed<br/> Due to Soundwall Work<br/>Expected to end at 5:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-117.864783,34.070427,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 22 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Pacific Coast Hwy, Rte 1 to Studebaker Rd<br/> 2 of 3 lanes closed<br/> Due to Electrical Work<br/>Expected to end at 6:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-118.122507,33.775291,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 405 On Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From Southbound Wilmington Ave<br/> <br/> Due to Striping Operation<br/>Expected to end at 4:59am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-118.241417,33.825828,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 405 On Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From  Rosecrans Ave<br/> <br/> Due to Guardrail Work<br/>Expected to end at 6:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-118.370408,33.901646,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 405 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  La Cienega Blvd / El Segundo Blvd to Rosecrans Ave<br/> 1 of 4 lanes closed<br/> Due to Guardrail Work<br/>Expected to end at 6:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-118.369153,33.921151,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 405 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  La Cienega Blvd / El Segundo Blvd to Redondo Beach Blvd<br/> 1 of 4 lanes closed<br/> Due to Guardrail Work<br/>Expected to end at 6:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-118.369153,33.921151,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 22 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Studebaker Rd to Pacific Coast Hwy, Rte 1<br/> 2 of 3 lanes closed<br/> Due to Electrical Work<br/>Expected to end at 6:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-118.103258,33.774274,0</coordinates></Point>
+</Placemark>
+    <!-- http://www.dot.ca.gov/cwwp2/data/d8/raw/lane_closures_v4_d8.txt -->
+<Placemark>
+  <name>Eastbound 74 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  DexterAve to Conard Ave<br/> 1 of 2 lanes closed<br/> Due to Sewer Work<br/>Expected to end at 6:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-117.336216,33.69326,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 15 Alternating Lanes Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Yates Well Rd to Nipton Rd<br/> 1 of 3 lanes closed<br/> Due to Highway Construction<br/>Expected to end at 6:59pm Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-115.421008,35.537835,0</coordinates></Point>
+</Placemark>
+    <!-- http://www.dot.ca.gov/cwwp2/data/d9/raw/lane_closures_v4_d9.txt -->
+<Placemark>
+  <name>Eastbound 58 Off Ramp Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">To Eastbound Summit OH Bridge<br/> 1 of 2 lanes closed<br/> Due to Miscellaneous Work<br/>Expected to end at 4:01pm Dec 22, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-118.412479,35.127322,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound / Southbound 395 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Route 395/178 Grade Separation Bridge to 0.5 mil north of 395/178 Grade Separation<br/> LShoulder, RShoulder closed<br/> Due to Utility Work<br/>Expected to end at 6:01pm Dec 22, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-117.800694,35.651435,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 395 On Ramp Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From Northbound Route 395/178 Grade Separation Bridge<br/> LShoulder closed<br/> Due to Utility Work<br/>Expected to end at 6:01pm Dec 22, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-117.800394,35.6529,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 395 Off Ramp Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">To Southbound Route 395/178 Grade Separation Bridge<br/> LShoulder closed<br/> Due to Utility Work<br/>Expected to end at 6:01pm Dec 22, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-117.803237,35.6533,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound / Southbound 127 Alternating Lanes Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Route 127 to Route 127<br/> 1 of 2 lanes closed<br/> Due to Concrete Pour<br/>Expected to end at 6:30pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-116.294443,36.081035,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 6 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  White Mountain Ranch Road to 2 mi North of White Mountain Ranch Rd.<br/> RShoulder closed<br/> Due to Utility Work<br/>Expected to end at 7:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-118.393828,37.615077,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 395 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Pine Nut Road to CA/NV State Line<br/> <br/> Due to Highway Construction<br/>Expected to end at 5:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-119.465832,38.512811,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 395 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Pine Nut Road to CA/NV State Line<br/> <br/> Due to Highway Construction<br/>Expected to end at 5:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-119.548572,38.687737,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 178 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Moyer Avenue to Howell Street<br/> 1 of 2 lanes closed<br/> Due to Utility Work<br/>Expected to end at 3:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-117.66981,35.645333,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound / Southbound 6 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Goolsby Ranch Road to 0.2 miles north of Christie Ln.<br/> RShoulder closed<br/> Due to Utility Work<br/>Expected to end at 4:30pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-118.473966,37.810519,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 158 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  North Shore Road to Big Rock Road<br/> <br/> Due to Crack Seal Operation<br/>Expected to end at 4:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-119.062904,37.799214,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 158 One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  North Shore Road to Big Rock Road<br/> <br/> Due to Crack Seal Operation<br/>Expected to end at 4:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-119.071851,37.784065,0</coordinates></Point>
+</Placemark>
+    <!-- http://www.dot.ca.gov/cwwp2/data/d10/raw/lane_closures_v4_d10.txt -->
+<Placemark>
+  <name>Westbound 132 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Chrisman Road Over-Crossing to Koster Road<br/> 1 of 2 lanes closed<br/> Due to Highway Construction<br/>Expected to end at 8:01pm Apr 18, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-121.397699,37.638598,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 152 Alternating Lanes Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Upper Cotton Wood Road to San Luis Dam Service Road<br/> Median, LShoulder closed<br/> Due to Median Barrier Work<br/>Expected to end at 4:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-121.180308,37.085322,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 152 Alternating Lanes Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Upper Cotton Wood Road to San Luis Dam Service Road<br/> Median, LShoulder closed<br/> Due to Median Barrier Work<br/>Expected to end at 4:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-121.180308,37.085322,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 88 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Atkins Road (Right) to Athearn Street<br/> RShoulder closed<br/> Due to Utility Potholing<br/>Expected to end at 5:01pm Dec 5, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-121.096958,38.186231,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 120 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Airport Way Over-Crossing to Spreckels Road Under-crossing/Manteca Bypass<br/> 2 of 2 lanes closed<br/> Due to Sign Work<br/>Expected to end at 5:59am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-121.252195,37.783233,0</coordinates></Point>
+</Placemark>
+    <!-- http://www.dot.ca.gov/cwwp2/data/d11/raw/lane_closures_v4_d11.txt -->
+<Placemark>
+  <name>Westbound 8 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Barbara Worth OC to Dogwood Rd<br/> 1 of 2 lanes closed<br/> Due to Pavement Work<br/>Expected to end at 8:01pm Sep 22, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-115.430272,32.773438,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 8 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Dogwood Rd to Barbara Worth OC<br/> 1 of 2 lanes closed<br/> Due to Pavement Work<br/>Expected to end at 8:01pm Sep 22, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-115.535044,32.773799,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 8 On Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From  Ogilby Rd<br/> <br/> Due to Highway Construction<br/>Expected to end at 6:01pm Feb 16, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-114.836816,32.760473,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 8 Off Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">To  Ogilby Rd<br/> <br/> Due to Highway Construction<br/>Expected to end at 6:01pm Feb 16, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-114.83368,32.759983,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 8 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Ogilby Rd to Route 186<br/> 1 of 2 lanes closed<br/> Due to Highway Construction<br/>Expected to end at 6:01pm Feb 16, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-114.836816,32.760473,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 8 Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From  Route 186 to Ogilby Rd<br/> <br/> Due to Highway Construction<br/>Expected to end at 6:01pm Feb 16, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-114.72017,32.743503,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 111 Connector Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">To Eastbound Route 8<br/> <br/> Due to Pavement Work<br/>Expected to end at 5:01pm Jan 24, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-115.501299,32.774003,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 111 Connector Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">To Eastbound Route 8<br/> <br/> Due to Pavement Work<br/>Expected to end at 5:01pm Jan 24, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-115.500913,32.769583,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 78 Alternating Lanes Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Route 5 to College Blvd<br/> 1 of 3 lanes closed<br/> Due to Striping Operation<br/>Expected to end at 5:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-117.350783,33.177307,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 94 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Jamacha Blvd to JEO Route 54<br/> 2 of 3 lanes closed<br/> Due to Sewer Work<br/>Expected to end at 5:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-116.951387,32.739843,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 5 Off Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">To  Kettner Blvd<br/> <br/> Due to Electrical Work<br/>Expected to end at 5:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-117.183334,32.742901,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound 8 On Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From  Camino del Rio West<br/> <br/> Due to Highway Construction<br/>Expected to end at 5:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-117.203974,32.759396,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 5 Off Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">To Eastbound Balboa Ave<br/> <br/> Due to Bridge Work<br/>Expected to end at 5:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-117.215708,32.806613,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Westbound 54 Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Fury Ln to Route 94<br/> 2 of 3 lanes closed<br/> Due to Sewer Work<br/>Expected to end at 5:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-116.934173,32.743137,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Route 94 Surface Street One-way Traffic Operation</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">22nd St @ Route 94<br/> <br/> Due to Bridge Work<br/>Expected to end at 5:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-117.143974,32.71312,0</coordinates></Point>
+</Placemark>
+    <!-- http://www.dot.ca.gov/cwwp2/data/d12/raw/lane_closures_v4_d12.txt -->
+<Placemark>
+  <name> 5 Surface Street Alternating Lanes Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">Via Pico Plaza Avenida Presidio/Calle Frontera<br/> 1 of 3 lanes closed<br/> Due to Miscellaneous Work<br/>Expected to end at 5:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-117.07629,32.568577,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 5 On Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From Southbound Ave Pico<br/> <br/> Due to Miscellaneous Work<br/>Expected to end at 4:59am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-117.622144,33.43877,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 5 Off Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">To Northbound Ave Pico<br/> <br/> Due to Miscellaneous Work<br/>Expected to end at 4:59am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-117.622144,33.43877,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name> 5 Surface Street Alternating Lanes Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">Avenida Presidio/Calle Frontera Via Pico Plaza<br/> 1 of 4 lanes closed<br/> Due to Miscellaneous Work<br/>Expected to end at 5:01am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-117.07629,32.568577,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound 5 Alternating Lanes Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-32x32.png" style="float:left" /><p align="left">From  Ave Vista Hermosa to El Camino Real<br/> 1 of 4 lanes closed<br/> Due to Miscellaneous Work<br/>Expected to end at 4:59am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs</styleUrl>
+  <Point><coordinates>-117.631224,33.445187,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Northbound 5 On Ramp Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/full-closure-32x32.png" style="float:left" /><p align="left">From Northbound Ave Pico<br/> <br/> Due to Miscellaneous Work<br/>Expected to end at 4:59am Dec 6, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure</styleUrl>
+  <Point><coordinates>-117.622144,33.43877,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound / Northbound Road 27 Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/hsrwithbarriertransparent8888v2.png" style="float:left" /><p align="left">From Avenue 17 to Club Drive<br/> <br/> Due to High Speed Rail Construction<br/>Expected to end at 4:00pm Oct 27, 2017<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure-hsr</styleUrl>
+  <Point><coordinates>-120.0562334060669,37.00645964441858,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound / Westbound American Ave Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/hsrwithbarriertransparent8888v2.png" style="float:left" /><p align="left">From Cedar Avenue to Maple Avenue<br/> <br/> Due to High Speed Rail Construction<br/>Expected to end at 4:00pm Jun 9, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure-hsr</styleUrl>
+  <Point><coordinates>-119.75177049636841,36.66342747875744,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound / Westbound Ave 11 Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/hsrwithbarriertransparent8888v2.png" style="float:left" /><p align="left">From Road 31 to Road 32<br/> <br/> Due to High Speed Rail Construction<br/>Expected to end at 4:00pm Mar 25, 2019<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure-hsr</styleUrl>
+  <Point><coordinates>-119.7725868,36.7468422,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Eastbound / Westbound Tulare Full Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/hsrwithbarriertransparent8888v2.png" style="float:left" /><p align="left">From H St. to G St.<br/> <br/> Due to High Speed Rail Construction<br/>Expected to end at 4:00pm Sep 29, 2019<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#full-closure-hsr</styleUrl>
+  <Point><coordinates>-119.79307651519775,36.73178204112618,0</coordinates></Point>
+</Placemark>
+<Placemark>
+  <name>Southbound West Ave Lane Closure</name>
+  <description><![CDATA[<img src="http://quickmap.dot.ca.gov/QM/img/lcs-hsr-32x32.png" style="float:left" /><p align="left">From University Ave to Weber Ave<br/> 1 of 2 lanes closed<br/> Due to High Speed Rail Construction<br/>Expected to end at 3:15pm Jan 19, 2018<br/>Information courtesy of <img src="http://quickmap.dot.ca.gov/QM/imagesquickmap/caltranslogo.png" height=20></p>
+    <p class="update-stamp">Last updated: 12/06/2017 5:50am</p>]]></description>
+  <styleUrl>#lcs-hsr</styleUrl>
+  <Point><coordinates>-119.82680797576904,36.763985495292296,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
